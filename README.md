@@ -1,4 +1,4 @@
 # Data-Science-Methodology-IBM
 Powered by Coursera
 
-The documents inside the propersiry is for personal learning perpose. 
+The documents inside the repository is for personal learning perpose. 
